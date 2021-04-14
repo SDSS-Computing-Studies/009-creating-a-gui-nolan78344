@@ -8,7 +8,7 @@ window.title("Task 1")
 
 
 entry1 = tk.Entry(window,text="Entry widgets can be typed in", width=15)
-lable = tk.Label(window, text="+")
+lable = tk.Label(window, text="x")
 entry2 = tk.Entry(window,text="Entry widgets can be typed in", width=15)
 button = tk.Button(window,text="=")
 entry3 = tk.Entry(window,text="Entry widgets can be typed in", width=20)
